@@ -3,7 +3,6 @@
 **Main**:
 * 1 egg
 * 2 pinches of salt
-
 **Optional**:
 * sliced onion quarter
 * a pinch of black pepper
